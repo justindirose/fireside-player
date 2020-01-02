@@ -1,0 +1,13 @@
+{
+  "name": "Fireside.fm Player",
+  "component": true,
+  "about_url": null,
+  "license_url": null,
+  "authors": "Justin DiRose",
+  "theme_version": "1.0",
+  "assets": {
+  },
+  "color_schemes": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}

@@ -1,0 +1,17 @@
+fireside_src_url:
+  type: string
+  default: ""
+  description:
+    en: "The src URL from the fireside.fm embeddable player iframe"
+fireside_player_location:
+  type: enum
+  default: "Below Global Notices"
+  choices:
+    - "Below Global Notices"
+    - "Above Topic Post Stream"
+    - "Above Suggested Topics"
+display_on_mobile:
+  type: bool
+  default: false
+  description:
+    en: "Choose to display player on mobile. May be odd spacing due to the players use of an iframe"
